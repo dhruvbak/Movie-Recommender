@@ -1,5 +1,5 @@
 # Movie-Recommender
-#### Collabrative filtering based KNN movie recommendation system using cosine similarity
+#### Collaborative filtering based KNN movie recommendation system using cosine similarity
 Recommender systems are broadly classified into two types based on the data being used to make inferences:
 1.	Content-based filtering, which uses item attributes.
 2.	Collaborative filtering, which uses user behaviour (interactions) in addition to item attributes.
